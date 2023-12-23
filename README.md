@@ -1,0 +1,1 @@
+[kota_DKIJakarta](https://github.com/Putrizhn/script_putri/tree/00a86d688bc0508991ea1dfc5fd1f0c8630c263f/kota_DKIJakarta)https://github.com/Putrizhn/script_putri/tree/00a86d688bc0508991ea1dfc5fd1f0c8630c263f/kota_DKIJakarta
