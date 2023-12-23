@@ -34,3 +34,8 @@
 
 # a_overlay
 1. the result of overlaying TB, KU and iklim plots
+
+# uji_data
+1. merged_data_KU.csv => merged data Kualitas Udara (PM 2.5, PM 10, dan SO2) dan TB
+2. merged_data_iklim.csv => merged data Faktor Iklim (Kelembapan dan Curah Hujan) dan TB
+3. uji_normal + corr => masih coba-coba
