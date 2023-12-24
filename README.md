@@ -7,15 +7,15 @@
 1. data_tb.xlsx => data tb per bulan berdasarkan kabupaten/kota
 2. result_year_tb.ipynb => pemetaan spasial sebaran per bulan, grafik siklus per kabupaten kota, dan grafik time series
 
-# PM_10
-1. dissolved_result_pm10_3years.csv => data re-analisis pm10 per bulan berdasarkan kabupaten/kota
-2. result_pm10_3year_noyear.ipynb => pemetaan spasial sebaran per bulan dan grafik siklus per kabupaten kota
-3. result_pm10_3year_year.ipynb => grafik time series
-
 # PM_25
 1. dissolved_result_pm25_3years.csv => data re-analisis pm2.5 per bulan berdasarkan kabupaten/kota
 2. result_pm25_3year_noyear.ipynb => pemetaan spasial sebaran per bulan dan grafik siklus per kabupaten kota
 3. result_pm25_3year_year.ipynb => grafik time series
+
+# PM_10
+1. dissolved_result_pm10_3years.csv => data re-analisis pm10 per bulan berdasarkan kabupaten/kota
+2. result_pm10_3year_noyear.ipynb => pemetaan spasial sebaran per bulan dan grafik siklus per kabupaten kota
+3. result_pm10_3year_year.ipynb => grafik time series
 
 # SO_2
 1. dissolved_result_so2_3years.csv => data re-analisis so2 per bulan berdasarkan kabupaten/kota
