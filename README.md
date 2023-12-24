@@ -1,4 +1,4 @@
-"Analisis Hubungan Kualitas Udara (PM 2.5, PM 10, dan SO2) dan Faktor Iklim (Kelembapan dan Curah Hujan) dengan Kejadian Tuberkulosis (Studi Kasus di DKI Jakarta Tahun 2020-2022)”
+"Analisis Hubungan Kualitas Udara (PM 2.5, PM 10, dan SO2) dan Faktor Iklim (Kelembapan dan Curah Hujan) dengan Kejadian Tuberkulosis (Studi Kasus di Jakarta Tahun 2020-2022)”
 
 # kota_DKIJakarta
 1. shp peta DKI Jakarta per kecamatan
