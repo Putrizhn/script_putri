@@ -15,22 +15,22 @@
 # PM_10
 1. dissolved_result_pm10.csv => data re-analisis pm10 per bulan berdasarkan kabupaten/kota
 2. result_pm10_noyear.ipynb => pemetaan spasial sebaran per bulan dan grafik siklus bulanan per kabupaten kota (dalam 5 tahun)
-3. result_pm10_year.ipynb => grafik time series
+3. result_pm10_year.ipynb => grafik timetrend series
 
 # SO_2
 1. dissolved_result_so2.csv => data re-analisis so2 per bulan berdasarkan kabupaten/kota
 2. result_so2_noyear.ipynb => pemetaan spasial sebaran per bulan dan grafik siklus bulanan per kabupaten kota (dalam 5 tahun)
-3. result_so2_year.ipynb => grafik time series
+3. result_so2_year.ipynb => grafik timetrend series
 
 # kelembaban
 1. dissolved_result_rh.csv => data re-analisis kelembapan per bulan berdasarkan kabupaten/kota
 2. result_rh_noyear.ipynb => pemetaan spasial sebaran per bulan dan grafik siklus bulanan per kabupaten kota (dalam 5 tahun)
-3. result_rh_year.ipynb => grafik time series
+3. result_rh_year.ipynb => grafik timetrend series
 
 # curah_hujan
 1. dissolved_result_tp.csv => data re-analisis curah hujan per bulan berdasarkan kabupaten/kota
 2. result_tp_noyear.ipynb => pemetaan spasial sebaran per bulan dan grafik siklus bulanan per kabupaten kota (dalam 5 tahun)
-3. result_tp_year.ipynb => grafik time series
+3. result_tp_year.ipynb => grafik timetrend series
 
 # a_overlay
 1. the result of overlaying TB, KU and iklim plots
