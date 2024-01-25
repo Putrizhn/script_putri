@@ -37,4 +37,4 @@
 
 # uji_data
 1. merged_data_all.csv => merged data Kualitas Udara (PM 2.5, PM 10, dan SO2), Faktor Iklim (Kelembapan dan Curah Hujan), dan TB
-3. uji_normal + corr => masih coba-coba
+3. uji_normal + uji_corr => masih coba-coba
